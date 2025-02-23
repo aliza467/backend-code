@@ -1,0 +1,15 @@
+{
+  "name": "chai-n-backend",
+  "version": "1.0.0",
+  "description": "backend n chaiii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "chai"
+  ],
+  "author": "Aliza Khan",
+  "license": "ISC"
+}
